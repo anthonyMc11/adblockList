@@ -1,1 +1,2 @@
-{"apps":[],"filters":[{"isCustom":true,"mobile":"none","pkg1Name":"*","port":-1,"priority":-10,"proto":"tcp","server":"mybad.com","serverStrType":"host","wifi":"none"}]}
+{"apps":[],"filters":[{"isCustom":true,"mobile":"none","pkg1Name":"*","port":-1,"priority":-10,"proto":"tcp","server":"mybad.com","serverStrType":"host","wifi":"none"},
+{"isCustom":true,"mobile":"none","pkg1Name":"*","port":-1,"priority":-10,"proto":"tcp","server":"myextraone.com","serverStrType":"host","wifi":"none"}]}
